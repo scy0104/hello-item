@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import { createPinia } from 'apinia'
+import { createPinia } from 'apiniaaa'
 
 import App from './App.vue'
 import router from './router'
